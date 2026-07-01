@@ -10,4 +10,5 @@
   - `day_03_Linux基本指令_03.md`：Linux 文本搜索、压缩解压、文件传输和系统信息查看笔记。
   - `day_04_Shell及Linux权限_01.md`：Shell 命令运行原理、Linux 用户身份切换和权限基础笔记。
   - `day_05_Linux权限_02.md`：Linux 目录权限、缺省权限、umask 和粘滞位笔记。
+  - `day_06_Linux开发工具_01.md`：Linux 软件安装方式、包管理器和 Vim 基础操作笔记。
 - `Linux网络/`：Linux 网络相关学习内容。
