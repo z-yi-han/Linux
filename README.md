@@ -13,4 +13,5 @@
   - `day_06_Linux开发工具_01.md`：Linux 软件安装方式、包管理器和 Vim 基础操作笔记。
   - `day_07_Linux开发工具_02.md`：Vim 进阶操作、gcc/g++ 编译流程和静态库、动态库基础笔记。
   - `day_08_Linux开发工具_03.md`：条件编译、静态链接、动态链接和库文件原理笔记。
+  - - `day_09_Linux开发工具_04.md`：make,makefile原理笔记。
 - `Linux网络/`：Linux 网络相关学习内容。
