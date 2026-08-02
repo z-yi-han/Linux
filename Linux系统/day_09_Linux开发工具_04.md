@@ -1,0 +1,12 @@
+## make & makefile
+- make是一个命令,makefile是一个文件
+- makefile有依赖关系，依赖方法
+- makefile相当于一个命令被封装成一个文件,然后通过make可以调用这个文件
+- make命令扫描makefile时从上向下扫描默认形成第一个目标文件
+- 默认老代码不做重新编译
+- Linux中查找文件的比重＞修改文件比重
+- make听过Modify时间判断bin和.c的新旧问题
+-  PHONY修饰可以让gcc忽略新旧直接编译
+- 项目清理一般都用PHONY修饰
+- makefile在内部维护类似于栈的结构,不断寻找依赖文件
+- makefile可以定义变量
